@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63f12013d3093954a76cfc86"
+  },
+  "name": "Ada Lovelace",
+  "age": 205
+},{
+  "_id": {
+    "$oid": "63f1201fd3093954a76cfc87"
+  },
+  "name": "Peter smith",
+  "age": 24
+},{
+  "_id": {
+    "$oid": "63f1204ed3093954a76cfc88"
+  },
+  "name": "Peter smith",
+  "age": 24
+}]
